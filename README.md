@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Boilerplate React 17 + Airbnb + Eslint + Pretierr
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and some extra
+configurations were added to work in Visual Studio Code with Prettier and ESLint plugin.
 
 ## Available Scripts
 
